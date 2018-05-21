@@ -1,0 +1,20 @@
+C:\Users\bochanov-m\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\TwitterBot\bin\Debug\TwitterBot.exe.config
+C:\Users\bochanov-m\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\TwitterBot\bin\Debug\TwitterBot.exe
+C:\Users\bochanov-m\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\TwitterBot\bin\Debug\TwitterBot.pdb
+C:\Users\bochanov-m\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\TwitterBot\obj\Debug\TwitterBot.exe
+C:\Users\bochanov-m\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\TwitterBot\obj\Debug\TwitterBot.pdb
+C:\Users\bochanov-m\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\TwitterBot\obj\Debug\TwitterBot.csprojResolveAssemblyReference.cache
+C:\Users\bochanov-m\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\TwitterBot\bin\Debug\TwitterAPI.dll
+C:\Users\bochanov-m\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\TwitterBot\bin\Debug\TwitterOAuth.dll
+C:\Users\bochanov-m\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\TwitterBot\bin\Debug\TwitterAPI.pdb
+C:\Users\bochanov-m\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\TwitterBot\bin\Debug\TwitterOAuth.pdb
+C:\TwitterBot\Source\TwitterBot\bin\Debug\TwitterBot.exe.config
+C:\TwitterBot\Source\TwitterBot\bin\Debug\TwitterBot.exe
+C:\TwitterBot\Source\TwitterBot\bin\Debug\TwitterBot.pdb
+C:\TwitterBot\Source\TwitterBot\bin\Debug\TwitterAPI.dll
+C:\TwitterBot\Source\TwitterBot\bin\Debug\TwitterOAuth.dll
+C:\TwitterBot\Source\TwitterBot\bin\Debug\TwitterAPI.pdb
+C:\TwitterBot\Source\TwitterBot\bin\Debug\TwitterOAuth.pdb
+C:\TwitterBot\Source\TwitterBot\obj\Debug\TwitterBot.csprojResolveAssemblyReference.cache
+C:\TwitterBot\Source\TwitterBot\obj\Debug\TwitterBot.exe
+C:\TwitterBot\Source\TwitterBot\obj\Debug\TwitterBot.pdb

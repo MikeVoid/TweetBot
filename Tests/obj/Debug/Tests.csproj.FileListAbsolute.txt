@@ -1,0 +1,24 @@
+C:\Users\bochanov-m\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\TwitterBot\Tests\bin\Debug\Tests.dll
+C:\Users\bochanov-m\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\TwitterBot\Tests\bin\Debug\Tests.pdb
+C:\Users\bochanov-m\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\TwitterBot\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\bochanov-m\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\TwitterBot\Tests\obj\Debug\Tests.dll
+C:\Users\bochanov-m\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\TwitterBot\Tests\obj\Debug\Tests.pdb
+C:\Users\bochanov-m\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\TwitterBot\Tests\bin\Debug\TwitterOAuth.dll
+C:\Users\bochanov-m\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\TwitterBot\Tests\bin\Debug\TwitterOAuth.pdb
+C:\Users\bochanov-m\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\TwitterBot\Tests\bin\Debug\TwitterAPI.dll
+C:\Users\bochanov-m\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\TwitterBot\Tests\bin\Debug\TwitterAPI.pdb
+C:\Users\bochanov-m\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\TwitterBot\Tests\bin\Debug\TwitterBot.exe
+C:\Users\bochanov-m\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\TwitterBot\Tests\bin\Debug\TwitterBot.pdb
+C:\Users\bochanov-m\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods\TwitterBot\Tests\bin\Debug\Tests.dll.config
+C:\TwitterBot\Source\Tests\bin\Debug\Tests.dll.config
+C:\TwitterBot\Source\Tests\bin\Debug\Tests.dll
+C:\TwitterBot\Source\Tests\bin\Debug\Tests.pdb
+C:\TwitterBot\Source\Tests\bin\Debug\TwitterAPI.dll
+C:\TwitterBot\Source\Tests\bin\Debug\TwitterBot.exe
+C:\TwitterBot\Source\Tests\bin\Debug\TwitterOAuth.dll
+C:\TwitterBot\Source\Tests\bin\Debug\TwitterOAuth.pdb
+C:\TwitterBot\Source\Tests\bin\Debug\TwitterAPI.pdb
+C:\TwitterBot\Source\Tests\bin\Debug\TwitterBot.pdb
+C:\TwitterBot\Source\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\TwitterBot\Source\Tests\obj\Debug\Tests.dll
+C:\TwitterBot\Source\Tests\obj\Debug\Tests.pdb

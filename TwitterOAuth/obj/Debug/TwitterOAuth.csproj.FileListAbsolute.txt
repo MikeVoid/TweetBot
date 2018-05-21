@@ -1,0 +1,4 @@
+C:\TwitterBot\Source\TwitterOAuth\bin\Debug\TwitterOAuth.dll
+C:\TwitterBot\Source\TwitterOAuth\bin\Debug\TwitterOAuth.pdb
+C:\TwitterBot\Source\TwitterOAuth\obj\Debug\TwitterOAuth.dll
+C:\TwitterBot\Source\TwitterOAuth\obj\Debug\TwitterOAuth.pdb
